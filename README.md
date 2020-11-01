@@ -9,7 +9,7 @@ A Bootstrap clone of a WP theme, uses some PHP to create partials.
 
 ## Run the project 
 
-Use local server such as MAMP. 
+Run a local server such as MAMP. 
 
 ```
 http://localhost:8888/Divi%20theme/index.php
